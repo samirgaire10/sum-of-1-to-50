@@ -11,5 +11,5 @@ Run file
 ```
 ./sum-of-1-to-50.o
 ```
-![This is an image](./Volume_of_cylinder.png)
+![This is an image](./sum-of-1-to-50.png)
 
